@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T18:43:48.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xkWqsBd3ss7Q2zPyVX12" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-14T18:47:03.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9lY3NkSm0_IIjxdLXkwl" version="22.1.18" type="github" pages="2">
   <diagram name="reference-architecture" id="V95pCXVcyseheLvfSIBV">
-    <mxGraphModel dx="1263" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
           <mxGeometry x="441" y="551" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="kjE8Pdv-VjBIJHnquSJj-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;fontFamily=Helvetica;" vertex="1" parent="3-PaEijQBZ-sR6-xbG0i-14">
-          <mxGeometry x="36.5" y="59" width="803.5" height="471" as="geometry" />
+          <mxGeometry x="40" y="59" width="800" height="481" as="geometry" />
         </mxCell>
         <mxCell id="3-PaEijQBZ-sR6-xbG0i-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=1;" edge="1" parent="3-PaEijQBZ-sR6-xbG0i-5" source="3-PaEijQBZ-sR6-xbG0i-8" target="3-PaEijQBZ-sR6-xbG0i-24">
           <mxGeometry relative="1" as="geometry" />
