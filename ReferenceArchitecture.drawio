@@ -1,6 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T11:40:41.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.2.0" etag="QbCQ8YjLpqO5Ef2YqzI0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T15:43:36.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GIMJBju4kLDpi9IZZ95A" version="24.2.0" type="github" pages="2">
   <diagram name="Page-1" id="O07rGp0m6fBc_2v2LWnP">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-1" value="Business&lt;br&gt;Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-2" target="9Qaa2TNBogPMtdE2aUkF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-2" value="Information Architecture Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-3" value="Business &lt;br&gt;Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-4" target="9Qaa2TNBogPMtdE2aUkF-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="835" y="180" />
+              <mxPoint x="1005" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-4" value="Business&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-5" target="9Qaa2TNBogPMtdE2aUkF-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1005" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-5" value="Information&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="930" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-6" target="9Qaa2TNBogPMtdE2aUkF-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1175" y="180" />
+              <mxPoint x="1005" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-6" value="Technology&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-12" value="Impacts" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-7" target="9Qaa2TNBogPMtdE2aUkF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-7" value="Application&lt;br&gt;Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-1" target="9Qaa2TNBogPMtdE2aUkF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-9" value="Application Architecture&lt;br&gt;Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-3" target="9Qaa2TNBogPMtdE2aUkF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="180" />
+              <mxPoint x="495" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-21" value="Motivates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-13" target="9Qaa2TNBogPMtdE2aUkF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-13" value="Application&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="930" y="200" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-17" target="9Qaa2TNBogPMtdE2aUkF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="180" />
+              <mxPoint x="495" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-17" value="Technology&lt;br&gt;&amp;nbsp;Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-22" value="Governs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-19" target="9Qaa2TNBogPMtdE2aUkF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-19" value="Application Architecture Principle" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=principle;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-20" value="Supports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-19" target="9Qaa2TNBogPMtdE2aUkF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-25" value="Supports" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-23" target="9Qaa2TNBogPMtdE2aUkF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-23" value="Application Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-26" value="Application Function" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-27" value="Provides" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Qaa2TNBogPMtdE2aUkF-23" target="9Qaa2TNBogPMtdE2aUkF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RXBarV3y0Q_xbcp_vr9S" name="Page-2">
+    <mxGraphModel dx="1393" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
