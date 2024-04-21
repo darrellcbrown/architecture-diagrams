@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T05:02:09.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aHoAo9A1R44tqSll7xtN" version="24.2.0" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-21T05:04:46.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Du59DOPPNNyB4o0mnmwh" version="24.2.0" type="github" pages="17">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1393" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pBw1YAUUFRxlXZoPxTBI" name="View - App Reference Model">
-    <mxGraphModel dx="1990" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="641" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -718,10 +718,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-kbhr8FH_dMKGbfCgcJ1-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/close2-128.png;imageBackground=default;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="128" height="128" as="geometry" />
+          <mxGeometry x="310" y="560" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="-kbhr8FH_dMKGbfCgcJ1-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/check-128.png" vertex="1" parent="1">
-          <mxGeometry x="190" y="560" width="128" height="128" as="geometry" />
+          <mxGeometry x="200" y="560" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="-kbhr8FH_dMKGbfCgcJ1-6" value="Remote Removal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="120" height="30" as="geometry" />
