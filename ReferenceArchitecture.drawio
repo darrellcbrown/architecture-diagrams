@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T23:06:48.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hHXPGkfa5uTjcshH_V4r" version="24.2.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-24T23:10:47.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YapldEDJxXctcgVOzyfn" version="24.2.8" type="github" pages="17">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QBLiCc0Qz6YVdH8f126g" name="Play 1">
-    <mxGraphModel dx="2779" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2834" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="App Metamodel" id="O07rGp0m6fBc_2v2LWnP">
-    <mxGraphModel dx="1379" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,13 +304,13 @@
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-12" value="Impacts" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-7" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Qaa2TNBogPMtdE2aUkF-7" value="Application&lt;br&gt;Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" parent="1" vertex="1">
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-7" value="Application&lt;br&gt;Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="200" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-1" target="9Qaa2TNBogPMtdE2aUkF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Qaa2TNBogPMtdE2aUkF-9" value="Application Architecture&lt;br&gt;Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;" parent="1" vertex="1">
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-9" value="Application Architecture&lt;br&gt;Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="530" y="200" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-3" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
@@ -324,7 +324,7 @@
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-21" value="Motivates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-13" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Qaa2TNBogPMtdE2aUkF-13" value="Application&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;" parent="1" vertex="1">
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-13" value="Application&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1040" y="200" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-17" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
@@ -341,7 +341,7 @@
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-22" value="Governs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-19" target="9Qaa2TNBogPMtdE2aUkF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Qaa2TNBogPMtdE2aUkF-19" value="Application Architecture Principle" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=principle;archiType=oct;" parent="1" vertex="1">
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-19" value="Application Architecture Principle" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=principle;archiType=oct;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="360" y="300" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-20" value="Supports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-19" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
@@ -358,7 +358,7 @@
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-15" value="Accesses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-23" target="iB9Q5cf9_S0rb7DngUa9-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Qaa2TNBogPMtdE2aUkF-23" value="Application Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-23" value="Application Service" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="480" y="440" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-13" value="Triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-26" target="iB9Q5cf9_S0rb7DngUa9-10" edge="1">
@@ -374,7 +374,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Qaa2TNBogPMtdE2aUkF-26" value="Application Function" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
+        <mxCell id="9Qaa2TNBogPMtdE2aUkF-26" value="Application Function" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="480" y="570" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-27" value="Provides" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-23" target="9Qaa2TNBogPMtdE2aUkF-26" edge="1">
@@ -395,7 +395,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iB9Q5cf9_S0rb7DngUa9-1" value="Application Component" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" parent="1" vertex="1">
+        <mxCell id="iB9Q5cf9_S0rb7DngUa9-1" value="Application Component" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="570" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-3" value="Realizes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iB9Q5cf9_S0rb7DngUa9-1" target="iB9Q5cf9_S0rb7DngUa9-1" edge="1">
@@ -405,13 +405,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iB9Q5cf9_S0rb7DngUa9-4" value="Application Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="1" vertex="1">
+        <mxCell id="iB9Q5cf9_S0rb7DngUa9-4" value="Application Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=interface;archiType=square;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="440" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-9" value="Aggregates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iB9Q5cf9_S0rb7DngUa9-8" target="iB9Q5cf9_S0rb7DngUa9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iB9Q5cf9_S0rb7DngUa9-8" value="Application Collaboration" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;" parent="1" vertex="1">
+        <mxCell id="iB9Q5cf9_S0rb7DngUa9-8" value="Application Collaboration" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="720" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-12" value="Triggers / flows to" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iB9Q5cf9_S0rb7DngUa9-10" target="iB9Q5cf9_S0rb7DngUa9-10" edge="1">
@@ -425,10 +425,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iB9Q5cf9_S0rb7DngUa9-10" value="Application Event" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=event;archiType=rounded" parent="1" vertex="1">
+        <mxCell id="iB9Q5cf9_S0rb7DngUa9-10" value="Application Event" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="480" y="720" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="iB9Q5cf9_S0rb7DngUa9-14" value="Data Object" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.businessObject;overflow=fill;" parent="1" vertex="1">
+        <mxCell id="iB9Q5cf9_S0rb7DngUa9-14" value="Data Object" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.businessObject;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="220" y="480" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-16" value="Accesses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-26" target="iB9Q5cf9_S0rb7DngUa9-14" edge="1">
@@ -451,8 +451,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mRlo11v6Pem-qgipmrUQ" name="Template">
-    <mxGraphModel dx="4587" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+  <diagram id="mRlo11v6Pem-qgipmrUQ" name="Serverless Technology Stack">
+    <mxGraphModel dx="3606" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
