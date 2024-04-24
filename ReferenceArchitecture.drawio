@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T23:10:47.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YapldEDJxXctcgVOzyfn" version="24.2.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-24T23:11:26.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gjtoMBYCC_1yagK8tar2" version="24.2.8" type="github" pages="17">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRlo11v6Pem-qgipmrUQ" name="Serverless Technology Stack">
-    <mxGraphModel dx="3606" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2647" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -578,10 +578,10 @@
           <mxGeometry x="690" y="260" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Lbqx6FYO828lHcbLU2_X-65" value="SaaS Partners" style="dashed=0;verticalAlign=bottom;fontStyle=0;whiteSpace=wrap;html=1;rounded=0;arcSize=10;align=left;spacingLeft=5;fillColor=default;strokeColor=#36393d;" parent="QfXX88o9aVSAT6x3r-gU-4" vertex="1">
-          <mxGeometry x="1000" y="260" width="260" height="120" as="geometry" />
+          <mxGeometry x="990" y="260" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Lbqx6FYO828lHcbLU2_X-66" value="Point-to-Point Partners" style="dashed=0;verticalAlign=bottom;fontStyle=0;whiteSpace=wrap;html=1;rounded=0;arcSize=10;align=left;spacingLeft=5;fillColor=default;strokeColor=#36393d;" parent="QfXX88o9aVSAT6x3r-gU-4" vertex="1">
-          <mxGeometry x="1000" y="390" width="260" height="120" as="geometry" />
+          <mxGeometry x="990" y="390" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Lbqx6FYO828lHcbLU2_X-69" value="B2B&lt;br&gt;(Appflow)" style="sketch=0;outlineConnect=0;fontColor=#333333;fillColor=#666666;strokeColor=#666666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;strokeWidth=0;" parent="QfXX88o9aVSAT6x3r-gU-4" vertex="1">
           <mxGeometry x="1020" y="281" width="45" height="45" as="geometry" />
