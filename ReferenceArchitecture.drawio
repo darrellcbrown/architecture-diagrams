@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T18:33:35.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="i3EwrIYbiN3L8GvA0OkY" version="24.3.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-25T18:36:02.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yj6PAadaMLHsp2XsMsbX" version="24.3.0" type="github" pages="19">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1q-smSSYf4hgu8kYIKge" name="Play 8">
-    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="App Metamodel" id="O07rGp0m6fBc_2v2LWnP">
-    <mxGraphModel dx="989" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="636" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,13 +305,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-7" value="Application&lt;br&gt;Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="190" y="200" width="150" height="75" as="geometry" />
+          <mxGeometry x="190" y="202" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-1" target="9Qaa2TNBogPMtdE2aUkF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-9" value="Application Architecture&lt;br&gt;Objective" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="530" y="200" width="150" height="75" as="geometry" />
+          <mxGeometry x="530" y="202" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-3" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -325,7 +325,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-13" value="Application&lt;br&gt;Driver" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="200" width="150" height="75" as="geometry" />
+          <mxGeometry x="1040" y="202" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="9Qaa2TNBogPMtdE2aUkF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-17" target="9Qaa2TNBogPMtdE2aUkF-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -429,7 +429,7 @@
           <mxGeometry x="480" y="720" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-14" value="Data Object" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.businessObject;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="220" y="480" width="120" height="70" as="geometry" />
+          <mxGeometry x="220" y="445" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iB9Q5cf9_S0rb7DngUa9-16" value="Accesses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9Qaa2TNBogPMtdE2aUkF-26" target="iB9Q5cf9_S0rb7DngUa9-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1013,7 +1013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WHBSHswumf6HH2Ty2btV" name="View - Application Strategic Radar for Portfolio Risk">
-    <mxGraphModel dx="1434" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1057,7 +1057,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7R6CSvbKZVGZjC5PKICh" name="View - Application Summary">
-    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1287,7 +1287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Lawson-HR" id="2gOP2SKQUPs21uSaXCfs">
-    <mxGraphModel dx="2100" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-0" />
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-1" parent="Qu_Lbu6SIkPTmF9vWEZL-0" />
@@ -1511,7 +1511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Lawson-VIPER" id="QpRc7xndSyOLRaqPMfbU">
-    <mxGraphModel dx="2100" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="P2UoHgEELqKfuS9KOoKk-0" />
         <mxCell id="P2UoHgEELqKfuS9KOoKk-1" parent="P2UoHgEELqKfuS9KOoKk-0" />
