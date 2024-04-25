@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T10:30:37.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="78vCax02eAGQuyKkQ-OS" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-25T10:32:39.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YToDK42KeUQRQt4A1GA7" version="24.2.8" type="github" pages="18">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1094,7 +1094,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lRyz6jCweWH1lYI52Oph" name="Lawson-Finance">
-    <mxGraphModel dx="1235" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5250" dy="2970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1280,16 +1280,19 @@
             <mxPoint x="1120" y="619.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LqWeYwIywHHo6_vjNVhG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="50" width="1400" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Lawson-HR" id="2gOP2SKQUPs21uSaXCfs">
-    <mxGraphModel dx="1909" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-0" />
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-1" parent="Qu_Lbu6SIkPTmF9vWEZL-0" />
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-2" value="Lawson ERP - HR Reference Architecture" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="Qu_Lbu6SIkPTmF9vWEZL-1">
-          <mxGeometry x="10" y="20" width="600" height="30" as="geometry" />
+          <mxGeometry x="80" y="20" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-4" value="&lt;font color=&quot;#000000&quot;&gt;Corporate Data Center&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=default;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="Qu_Lbu6SIkPTmF9vWEZL-1">
           <mxGeometry x="40" y="120" width="1040" height="680" as="geometry" />
@@ -1500,6 +1503,9 @@
             <mxPoint x="630" y="560" as="sourcePoint" />
             <mxPoint x="630.31" y="579.86" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D5LGlpDEoEWeyEy6FVcG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="Qu_Lbu6SIkPTmF9vWEZL-1">
+          <mxGeometry y="50" width="1400" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
