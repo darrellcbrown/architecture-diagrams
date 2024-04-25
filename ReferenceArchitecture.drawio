@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T10:33:04.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RgyG5JlflzeUe8A_P7jf" version="24.2.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-04-25T10:33:33.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NorHlABN3QiRFn0mJtCC" version="24.2.8" type="github" pages="18">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1099,7 +1099,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6LWghO3OnzAe7xFKGj4g-1" value="Lawson ERP - Finance Reference Architecture" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="10" y="20" width="600" height="30" as="geometry" />
+          <mxGeometry x="40" y="20" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nRSEAlMX2tc31Qxw59Dl-115" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;exitX=1.002;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wmHafoeCvEXfmqrs9P2g-1" target="nRSEAlMX2tc31Qxw59Dl-107">
           <mxGeometry relative="1" as="geometry">
@@ -1292,7 +1292,7 @@
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-0" />
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-1" parent="Qu_Lbu6SIkPTmF9vWEZL-0" />
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-2" value="Lawson ERP - HR Reference Architecture" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="Qu_Lbu6SIkPTmF9vWEZL-1">
-          <mxGeometry x="80" y="20" width="600" height="30" as="geometry" />
+          <mxGeometry x="40" y="20" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qu_Lbu6SIkPTmF9vWEZL-4" value="&lt;font color=&quot;#000000&quot;&gt;Corporate Data Center&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=default;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="Qu_Lbu6SIkPTmF9vWEZL-1">
           <mxGeometry x="40" y="120" width="1040" height="680" as="geometry" />
