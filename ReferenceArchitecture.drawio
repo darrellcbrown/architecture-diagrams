@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T18:32:01.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="v5jv1Y6nbKRD-sfU5J4g" version="24.3.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-04-25T18:33:35.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="i3EwrIYbiN3L8GvA0OkY" version="24.3.0" type="github" pages="19">
   <diagram id="WOe715P1J_q6xMeOVAwH" name="AE Catalog">
     <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mRlo11v6Pem-qgipmrUQ" name="Serverless Technology Stack">
-    <mxGraphModel dx="2275" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2450" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -717,7 +717,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pBw1YAUUFRxlXZoPxTBI" name="View - App Reference Model">
+  <diagram id="pBw1YAUUFRxlXZoPxTBI" name="View - CE">
     <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -990,7 +990,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kK-xIm2d-7z2-H0kdcHB" name="View - Application Disposition Model">
-    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mXvpevZ_1rWcTVCcmHUv" name="View - Application Dependency Model">
-    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1094,7 +1094,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lRyz6jCweWH1lYI52Oph" name="Lawson-Finance">
-    <mxGraphModel dx="1750" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
