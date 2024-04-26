@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T15:29:02.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2q8mhRCWK0UyAn72-3y_" version="24.3.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-26T15:40:31.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XNiDzfVDWftQYQIjsqJK" version="24.3.0" type="github" pages="10">
   <diagram id="3Kzvg9HdL2it8RKXYPww" name="A1.1">
     <mxGraphModel dx="1687" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -23,12 +23,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A1.1 - Acquisition" id="5_vqfe_L1P_lBEUDIDj9">
-    <mxGraphModel dx="1304" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="775" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="x7w2gX8nWAZfGW2M6_Uc-0" />
-        <mxCell id="x7w2gX8nWAZfGW2M6_Uc-1" style="locked=1;" parent="x7w2gX8nWAZfGW2M6_Uc-0" />
+        <mxCell id="x7w2gX8nWAZfGW2M6_Uc-1" style="" parent="x7w2gX8nWAZfGW2M6_Uc-0" />
         <mxCell id="x7w2gX8nWAZfGW2M6_Uc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="x7w2gX8nWAZfGW2M6_Uc-1">
-          <mxGeometry y="80" width="1100" height="40" as="geometry" />
+          <mxGeometry y="80" width="1400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x7w2gX8nWAZfGW2M6_Uc-3" value="A1.1 - Application Catalog" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="x7w2gX8nWAZfGW2M6_Uc-1">
           <mxGeometry x="10" y="40" width="300" height="40" as="geometry" />
@@ -409,16 +409,19 @@
         <mxCell id="DTqfANSggsVbgwfb_J36-123" value="WaiverOfPremium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="x7w2gX8nWAZfGW2M6_Uc-5">
           <mxGeometry x="2130" y="380" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="59hmY55mX_nELXjXFuqI-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="x7w2gX8nWAZfGW2M6_Uc-5">
+          <mxGeometry x="1400" y="80" width="1400" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="A1.1 - Administration" id="LDmnh7m1OVbm5WlpL1Se">
-    <mxGraphModel dx="3187" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="NkPyulq3KzDvnEPqQ_Mc-0" />
         <mxCell id="NkPyulq3KzDvnEPqQ_Mc-1" style="locked=1;" parent="NkPyulq3KzDvnEPqQ_Mc-0" />
         <mxCell id="NkPyulq3KzDvnEPqQ_Mc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="NkPyulq3KzDvnEPqQ_Mc-1">
-          <mxGeometry y="80" width="1100" height="40" as="geometry" />
+          <mxGeometry y="80" width="1400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NkPyulq3KzDvnEPqQ_Mc-3" value="A1.1 - Application Catalog" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="NkPyulq3KzDvnEPqQ_Mc-1">
           <mxGeometry x="10" y="40" width="300" height="40" as="geometry" />
@@ -495,7 +498,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A1.3 - Acquisition" id="ccMjSzbcDyZFEpsrKg2i">
-    <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="2P0ZJU1PQaExN7Tn7AB2-0" />
         <mxCell id="2P0ZJU1PQaExN7Tn7AB2-1" style="locked=1;" parent="2P0ZJU1PQaExN7Tn7AB2-0" />
@@ -3405,7 +3408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A1.3 - Administration" id="6QF53auO1IL2B3NErh3O">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="IBZuO5Z-d08FPwMtADsJ-0" />
         <mxCell id="IBZuO5Z-d08FPwMtADsJ-1" style="locked=1;" parent="IBZuO5Z-d08FPwMtADsJ-0" />
@@ -4799,7 +4802,7 @@
             <mxPoint x="40" y="26.480000000000018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MmXV-HMofQqAHiNcCrsE-63" value="Third Party App (7 Count)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;arcSize=0;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IBZuO5Z-d08FPwMtADsJ-5">
+        <mxCell id="MmXV-HMofQqAHiNcCrsE-63" value="Web (7 Count)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;arcSize=0;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IBZuO5Z-d08FPwMtADsJ-5">
           <mxGeometry x="1440" y="160" width="600" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MmXV-HMofQqAHiNcCrsE-64" value="AST&#xa;BCBS" style="group;verticalAlign=bottom;spacingBottom=-30;fontSize=10;" vertex="1" connectable="0" parent="IBZuO5Z-d08FPwMtADsJ-5">
