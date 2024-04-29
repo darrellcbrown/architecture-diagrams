@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T15:22:01.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2kfiCXS9uIfrImlzHMsI" version="24.3.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-29T15:23:17.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="l5kAUFtOzzi4qUQbq33C" version="24.3.1" type="github" pages="12">
   <diagram id="pmgEsa4dRfZANdV_sGvs" name="Icons">
     <mxGraphModel dx="1647" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A1.1 - Acquisition" id="5_vqfe_L1P_lBEUDIDj9">
-    <mxGraphModel dx="6380" dy="3420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3190" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="x7w2gX8nWAZfGW2M6_Uc-0" />
         <mxCell id="x7w2gX8nWAZfGW2M6_Uc-1" style="" parent="x7w2gX8nWAZfGW2M6_Uc-0" />
